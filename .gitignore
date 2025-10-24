@@ -1,0 +1,13 @@
+# Arduino build files
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+
+# Arduino temporary files
+*~
+*.tmp
+
+# Local configuration
+*.local
